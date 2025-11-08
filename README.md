@@ -1,60 +1,134 @@
-# Hi there, I’m Sahil Ahuja 👋  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahil%20Ahuja-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/sahil-ahuja-370b50271/)  
-[![Gmail](https://img.shields.io/badge/Gmail-sahilaahuja9172@gmail.com-red?logo=gmail&style=flat)](mailto:sahilaahuja9172@gmail.com)  
+<div align="center">
+  <h1>SAHIL AHUJA</h1>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+there%2C+I'm+Sahil+Ahuja+%F0%9F%91%8B;Full+Stack+Developer;Flutter+%26+React+Native+Developer;Backend+Developer+(Node.js%2FExpress%2FMongoDB);Tech+Explorer+%26+Problem+Solver" alt="Typing SVG" />
+  
+  <p>
+    <a href="https://www.linkedin.com/in/sahil-ahuja-370b50271/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
+    <a href="mailto:sahilaahuja9172@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://github.com/SahilAhuja007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="https://leetcode.com/u/Sahilahuja_1234/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  </p>
+</div>
 
 ---
 
-## 🧑‍💻 About Me  
-I’m an enthusiastic full-stack developer with a strong passion for backend systems, mobile apps, and web platforms. I strive to build robust, scalable and user-centric solutions. My interests include:  
-- Building clean, efficient backends (Node.js, Express, MongoDB)  
-- Developing cross-platform mobile apps (React Native, Flutter)  
-- Ensuring quality and coverage through end-to-end testing  
-- Solving algorithmic and systems-level problems continuously  
+<div align="center">
+  <h2>💫 About Me</h2>
+</div>
+
+<img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+- 👋 Hi, I'm **Sahil Ahuja**, a third-year **Computer Engineering student at VESIT**  
+- 🚀 Passionate **Full Stack Developer** with deep interest in **Backend Development**  
+- 📱 Experienced in **Flutter** & **React Native** for mobile app development  
+- 💻 Love building **clean UIs, scalable APIs, and interactive dashboards**  
+- ⚙️ Strong in **Node.js, Express, MongoDB, and Firebase** integrations  
+- 🌱 Currently exploring **AI-driven apps** & **system architecture optimization**  
+- 🎯 Focused on **problem solving**, **team collaboration**, and **continuous growth**  
+- 📫 Reach me at **sahilaahuja9172@gmail.com**
+
+<br>
 
 ---
 
-## 🎯 Skills & Expertise  
-### Backend & APIs  
-- Node.js, Express, MongoDB  
-- API design (RESTful) and implementation  
-- Authentication flows: email/password, Google Sign-in, OTP  
-- Data pipelines and rule-based logic  
+<div align="center">
+  <h2>💻 Tech Stack</h2>
+</div>
 
-### Mobile & Cross-Platform  
-- React Native with Expo Router, AsyncStorage, Axios  
-- Flutter apps with animations, light/dark themes, Windows support  
-- Native integrations: GPS, Bluetooth, Biometric auth, Accelerometer, Gyroscope  
+<details open>
+  <summary><b>Languages</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  </p>
+</details>
 
-### Web & Dashboards  
-- Front-end interfaces and admin dashboards  
-- Data visualisation and reporting  
-- Clean UI/UX, responsive layouts  
+<details open>
+  <summary><b>Frameworks & Libraries</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  </p>
+</details>
 
-### Algorithms & Problem Solving  
-I actively practice at LeetCode:  
-- Languages: Java (326 problems solved), MySQL (8 problems), JavaScript (4 problems)  
-- Topic highlights include Dynamic Programming (23), Divide & Conquer (12), Backtracking (9), Math (79), Hash Table (64), Binary Search (33), Array (143), String (85), Two Pointers (58)  
+<details open>
+  <summary><b>Databases & Backend</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/REST%20API-%23FF6C37.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>Tools & Platforms</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  </p>
+</details>
 
 ---
 
-## 🔧 Recent Projects & Highlights  
-- **“Second Brain”** — A mobile bookmarking app that captures YouTube & Twitter content, stores it locally, and creates shareable links for read-only viewing.  
-- **Expo Router React Native App** — Signup/Signin flows using Axios + AsyncStorage + navigation; end-to-end tests covering user journeys including biometric authentication.  
-- **Flutter Admin Panel** — Syllabus management interface: hierarchical navigation (Courses → Subjects → Chapters → Topics), animated lists, full API integration, light/dark theme support.  
-- **Medical Diagnostic Simulation** — A rule-based system (no ML) for junior/senior doctor interaction, handling structured data, speech, and medical images.  
-- **Sensor Data Analysis Project** — Utilised the Intel Berkeley Research Lab Sensor Dataset: preprocessing, statistical analysis, machine learning & deep learning pipelines, visualisations and insights.
+<div align="center">
+  <h2>📊 GitHub & LeetCode Stats</h2>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SahilAhuja007&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilAhuja007&theme=tokyonight&layout=compact&hide_border=false" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilAhuja007&theme=tokyonight&hide_border=false" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Sahilahuja_1234?theme=dark&font=Fira%20Code&ext=activity" height="250" />
+</div>
 
 ---
 
-## 💼 Portfolio & GitHub  
-Take a look at my repositories to explore full source-code, documentation and live demos:  
-[github.com/SahilAhuja007](https://github.com/SahilAhuja007)  
+<div align="center">
+  <h2>🏆 GitHub Trophies</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=SahilAhuja007&theme=discord&no-frame=false&no-bg=false&margin-w=4" />
+</div>
 
 ---
 
-## 📬 Let’s Connect  
-I’m always open to collaborating on interesting projects, exploring new technologies, or helping out with backend/mobile challenges.  
-- **Email**: sahilaahuja9172@gmail.com  
-- **LinkedIn**: [linkedin.com/in/sahil-ahuja-370b50271/](https://www.linkedin.com/in/sahil-ahuja-370b50271/)  
+<div align="center">
+  <h2>✍️ Random Dev Quote</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
 
-Thanks for visiting my profile — let’s build something great together! 🚀  
+---
+
+<div align="center">
+  <h2>🐍 Contribution Graph</h2>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+
+<div align="center">
+  <h3>🤝 Let's Connect and Build Something Amazing!</h3>
+</div>
