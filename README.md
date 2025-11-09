@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+there%2C+I'm+Sahil+Ahuja+%F0%9F%91%8B;Full+Stack+Developer;Flutter+%26+React+Native+Developer;Backend+Developer+(Node.js%2FExpress%2FMongoDB);Tech+Explorer+%26+Problem+Solver" alt="Typing SVG" />
   
   <p>
-    <a href="https://www.linkedin.com/in/sahil-ahuja-370b50271/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/sahil-ahuja-370b50271/"><img s="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
     <a href="mailto:sahilaahuja9172@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
     <a href="https://github.com/SahilAhuja007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
     <a href="https://leetcode.com/u/Sahilahuja_1234/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
@@ -21,7 +21,7 @@
 
 <img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 👋 Hi, I'm **Sahil Ahuja**, a third-year **Computer Engineering student at VESIT**  
+- 👋 Hi, I'm **Sahil Ahuja**, a fourth-year **Computer Engineering student at VESIT**  
 - 🚀 Passionate **Full Stack Developer** with deep interest in **Backend Development**  
 - 📱 Experienced in **Flutter** & **React Native** for mobile app development  
 - 💻 Love building **clean UIs, scalable APIs, and interactive dashboards**  
