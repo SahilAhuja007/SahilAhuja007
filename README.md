@@ -71,10 +71,7 @@
 
 ---
 
-<div align="center">
-  <h2>🐍 Contribution Graph</h2>
-  <img src="https://raw.githubusercontent.com/SahilAhuja007/SahilAhuja007/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</div>
+<div align="center"> <h2>🐍 Contribution Graph</h2> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" /> </div>
 
 ---
 
